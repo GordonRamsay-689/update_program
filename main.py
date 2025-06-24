@@ -1,5 +1,7 @@
 import os
 
+# comment
+
 path = __file__.strip('main.py')
 print(path)
 
